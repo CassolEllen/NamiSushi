@@ -15,5 +15,5 @@ Um site moderno e responsivo para um restaurante japonês fictício, desenvolvid
 - HTML5
 - CSS3
 - AOS (Animate On Scroll)
-- JavaScript (se houver scripts futuros)
+- JavaScript
 
